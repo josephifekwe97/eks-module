@@ -3,7 +3,6 @@ Personal eks module for quickly bootstrapping a cluster for learning.
 
 
 ## Most Important Kubernetes Object for workload Deployment
-
 - workloads:
   - Pod
   - Deployment
